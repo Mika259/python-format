@@ -39,7 +39,7 @@ def contoh_format_peratus():
 # Panggil fungsi-fungsi contoh di atas
 info = "Anda boleh baca kod sumber dengan membuka file ini."
 def main():
-    print(\ninfo\n)
+    print(\n{info}\n)
     print("Contoh 1: Memformat Nombor")
     contoh_format_nombor()
     print()
